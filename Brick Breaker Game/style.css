@@ -1,0 +1,30 @@
+
+   body {
+    text-align: center;
+}
+
+#board {
+  border: 5px solid skyblue;
+  background-color:black;
+  border-radius: 20px; 
+  box-shadow: 10px 10px purple;
+    
+}
+
+
+
+/* body {
+  
+  align-items: center;
+  height: 100vh; 
+   margin: 0;
+  display: flex;
+  justify-content: center;
+   background:linear-gradient(plum,white);
+   }  
+
+   canvas {
+ 
+  display: block;
+  margin: 20px auto;
+} */
